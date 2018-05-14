@@ -7,6 +7,8 @@ print ''
 print 'Move with arrow keys,'
 print 'Shoot with spacebar.'
 print ''
+print 'Good luck.'
+print ''
  
 #actual size of the window
 SCREEN_WIDTH = 40
