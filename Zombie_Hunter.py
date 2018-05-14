@@ -1,6 +1,12 @@
 import libtcodpy as libtcod
 import random
 import math
+
+print 'Zombie Hunter'
+print ''
+print 'Move with arrow keys,'
+print 'Shoot with spacebar.'
+
  
 #actual size of the window
 SCREEN_WIDTH = 40
